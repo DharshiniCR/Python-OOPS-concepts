@@ -1,4 +1,4 @@
-# PythonOOPS
+# Python OOPS concepts
 <p>
 CLASS & OBJECTS
   
